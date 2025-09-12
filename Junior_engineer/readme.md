@@ -2,4 +2,4 @@ Ablation.pdf: a description of intentional bugs injected into the RTL (multi-ste
 
 Spec Document.pdf: a detailed specification / bug report for a junior engineer to follow.
 
-Sample solution: corrected code + step-by-step debugging notes showing how to fix the issues.
+Issue fixed by junior engineer.pdf: corrected code + step-by-step debugging notes showing how to fix the issues.
